@@ -53,8 +53,8 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 /*==================== typed js ====================*/
 const typed = new Typed('.multiple-text', {
     strings: ['alumni smk krian 1 2024 ', 'REKAYASA PERANGKAT LUNAK', ''],
-    typeSpeed: 10000,
-    backSpeed: 10000,
+    typeSpeed: 100000,
+    backSpeed: 100000,
     backDelay: 1000,
     loop: true
 });
